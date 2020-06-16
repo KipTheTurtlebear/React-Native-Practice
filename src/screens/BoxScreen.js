@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
         height: 100,
         width: 120
     }
-});
+}); 
 
 export default BoxScreen;
